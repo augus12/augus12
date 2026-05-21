@@ -5,7 +5,7 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/auctex12/)
 
 
-**Backend & Full Stack Developer | High-Concurrency Systems | Go & Java Expert**
+**Backend & Full Stack Developer | High-Concurrency Systems | Java & Go Expert**
 
 I am a software engineer with over 8 years of experience building scalable, real-time streaming microservices and robust distributed systems. I specialize in crafting clean, maintainable architecture and leveraging advanced design patterns to solve complex engineering challenges across the video platform and financial technology domains. 
 
@@ -22,7 +22,7 @@ Currently, I am heavily focused on mastering advanced system design and building
 
 ### 💻 Tech Stack
 
-* **Languages:** Go, Java, Python, PHP, JavaScript, C++
+* **Languages:** Java, Python, Go, JavaScript, C++
 * **Architecture & Patterns:** Microservices, Clean Architecture, Strategy Pattern, Event-Driven Architecture, High-Concurrency Design
 * **Frameworks & Libraries:** Spring Boot, Spring Webflux, React.js, Apache Spark, Kafka Streams
 * **Databases & Caching:** Redis, MySQL, MongoDB, Cloud Spanner, RocksDB, Memcached
